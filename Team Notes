@@ -1,0 +1,43 @@
+Development Requirements
+	• Use Pandas to clean and format dataset(s)
+	• Create. Jupyter Notebook descriving the data exploration and cleanup process
+	• Create a Jupyter Notebook illustrating the final data analysis
+	• Use Matplotlib to create a total of 608 visualizations of your data (ideally, at 2 per "question" you ask of your data)
+	• Save PNG images of your visualizations to distribute to the class and instructional team and for inclusion in the presentation
+	• *Optional* - Use at least one API
+	• Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data and a short description of. Your finding and any relevant plots
+
+Suggestions for Data (1000-10000 rows)
+	• Sufficiently large
+	• Have a consistent format
+	• Ideally, contain more data than needed
+	• Are well-documented
+	
+Day 1 Deliverables
+	• Brainstorm possible project ideas
+	• Begin data research
+	• Write a description of the scope of your research
+		○ Project Title - NYC 2019 AirBnB Stats
+		○ Team Members - Amanda Luna, Caiti Donavan, Rafael Tejada, Yuly
+		○ Project description/outline
+			§ 
+		○ Research questions to be answered
+			§ Most popular neighborhood - heat map
+			§ Most popular type (entire place, room) - pie chart
+			§ Top 5 owners
+			§ Highest utilized locations
+			§ Highest ratings
+			§ Price difference between entire place/private rooms-- does this drive type of room booked?
+			§ Do owners with multiple homes (duplicate hostIDs) price lower than those who just own one home?
+			§ What is the average price per borough (neighborhood_group) 
+			§ Do high ratings drive increased bookings? (Seattle Data)
+			
+		○ Datasets to be used
+			§ https://www.kaggle.com/airbnb/seattle/data?select=listings.csv data as of 1/4/16
+			§ https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+			§ Extra info: https://medium.com/ml2vec/data-analysis-on-the-airbnb-dataset-e0be9254eeb9
+		○ Rough breakdown of tasks
+			§ Amanda - Data review, data scrub and build dataframes
+			§ Rafael - Data review, visualizations, data analysis
+			§ Caiti- Data review, visualizations, data analysis
+Yuly - Data review, data scrub and build dataframes
