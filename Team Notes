@@ -1,8 +1,8 @@
 Development Requirements
 	• Use Pandas to clean and format dataset(s)
-	• Create. Jupyter Notebook descriving the data exploration and cleanup process
+	• Create Jupyter Notebook describing the data exploration and cleanup process
 	• Create a Jupyter Notebook illustrating the final data analysis
-	• Use Matplotlib to create a total of 608 visualizations of your data (ideally, at 2 per "question" you ask of your data)
+	• Use Matplotlib to create a total of 6-8 visualizations of your data (ideally, at 2 per "question" you ask of your data)
 	• Save PNG images of your visualizations to distribute to the class and instructional team and for inclusion in the presentation
 	• *Optional* - Use at least one API
 	• Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data and a short description of. Your finding and any relevant plots
@@ -29,8 +29,7 @@ Day 1 Deliverables
 			§ Highest ratings
 			§ Price difference between entire place/private rooms-- does this drive type of room booked?
 			§ Do owners with multiple homes (duplicate hostIDs) price lower than those who just own one home?
-			§ What is the average price per borough (neighborhood_group) 
-			§ Do high ratings drive increased bookings? (Seattle Data)
+			§ What is the average price per borough (neighborhood_group)          
 			
 		○ Datasets to be used
 			§ https://www.kaggle.com/airbnb/seattle/data?select=listings.csv data as of 1/4/16
@@ -40,4 +39,7 @@ Day 1 Deliverables
 			§ Amanda - Data review, data scrub and build dataframes
 			§ Rafael - Data review, visualizations, data analysis
 			§ Caiti- Data review, visualizations, data analysis
-Yuly - Data review, data scrub and build dataframes
+ 			§ Yuly - Data review, data scrub and build dataframes
+            
+Day 2 Plan:
+Currently have 8 potential visualizations. Thursday Caiti/Rafael will shares screen and create visuals for first 2.5hrs. Then last 30 we will review for if it tells the story. If not, we'll recircle what data to pull. Troubleshoot early saturday, finalize saturday afternoon.
